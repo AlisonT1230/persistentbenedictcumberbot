@@ -1,5 +1,5 @@
 # Persistent Benedict Cumberbot
-A script that sends mutations of Benedict Cumberbatch to a list of emails.
+A script that sends mutations of Benedict Cumberbatch to a list of emails.  Done in half an hour with some less than ideal coding habits that I'm too lazy to fix right now.
 
 ## Why
 Because.
